@@ -1,3 +1,4 @@
 Python Training
 1234
 Azure Devops
+Wednesday
